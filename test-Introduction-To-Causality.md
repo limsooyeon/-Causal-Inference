@@ -40,7 +40,7 @@ ML은 예측 종류의 질문 유형에 매우 잘 답함.
 
 - $T_{i}$ : 단위 i의 treatment
   
-  - ![](../../../../../../../var/folders/cn/v74_4qls5sq2cm503qv8d5mskqcwj8/T/TemporaryItems/NSIRD_screencaptureui_ixhE0x/스크린샷 2023-12-29 오후 5.28.44.png)
+  - ![](./스크린샷 2023-12-29 오후 6.07.51.png)
 
 - $Y_{i}$ : treatment가 영향을 미치는 변수
 
